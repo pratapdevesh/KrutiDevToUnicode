@@ -43,3 +43,6 @@ client_id.txt
 .idea/
 .vscode/
 *.swp
+
+# PROTECT SOURCE CODE (Hide from GitHub)
+*.py
